@@ -1,1 +1,3 @@
-Ahora agrego una linea al archivo 10:25 13/10/2021
+Ahora agrego una linea al archivo 10:25 13/10/2021. Esto es la rama (Main o) Master.
+
+Esta segunda linea es para la Rama 1. Y la hice después. 12:17 13/10/2021
